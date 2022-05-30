@@ -29,10 +29,15 @@
 }
 
 .search{
+
     background-color: rgb(170, 100, 19);
     color: black;
     width: 25rem;
     height: 30px;
     margin-top: 8px;
     border-radius: 20px;
+}
+
+::-webkit-input-placeholder{
+    color: black;
 }
