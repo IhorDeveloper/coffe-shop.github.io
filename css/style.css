@@ -16,8 +16,22 @@
     background-color: black;
     display: flex;
     justify-content: space-between;
+    height: 50px;
 }
 
 .name{
-    color: rgb(255, 255, 255);
+    color: rgb(170, 100, 19);
+}
+
+.link{
+    text-decoration: none;
+}
+
+.search{
+    background-color: rgb(170, 100, 19);
+    color: black;
+    width: 25rem;
+    height: 30px;
+    margin-top: 7px;
+    border-radius: 20px;
 }
