@@ -25,6 +25,7 @@
 
 .link{
     text-decoration: none;
+    color: rgb(170, 100, 19);
 }
 
 .search{
@@ -32,6 +33,6 @@
     color: black;
     width: 25rem;
     height: 30px;
-    margin-top: 7px;
+    margin-top: 8px;
     border-radius: 20px;
 }
